@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
+import { Hero } from "@/components/sections/Hero";
 
 export const metadata: Metadata = {
   title: "Clentyra Site",
